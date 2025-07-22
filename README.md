@@ -8,9 +8,9 @@
 收录：
 
 
-<img width="553" height="639" alt="image" src="https://github.com/user-attachments/assets/1d2ec680-2b90-4e1e-b595-7febd94c5871" />
+<img width="553" height="639" alt="image" src="https://github.com/user-attachments/assets/1d2ec680-2b90-4e1e-b595-7febd94c5871" />(暂未变动)
 
 
 
-版本：1.0（最新）
+版本：2.0（最新）
 后续会更新... ...
