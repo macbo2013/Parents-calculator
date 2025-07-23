@@ -4,13 +4,21 @@
 
 目前可计算类型： "爸爸", "妈妈", "爷爷", "奶奶", "外公", "外婆", "哥哥", "姐姐", "弟弟", "妹妹", "姑姑", "伯伯", "叔叔", "舅舅", "姨妈", "曾祖父", "曾祖母", "外曾祖父", "外曾祖母"。
 
+支持en/cn语言
 
-收录：
+下载请前往releases
 
-
-<img width="553" height="639" alt="image" src="https://github.com/user-attachments/assets/1d2ec680-2b90-4e1e-b595-7febd94c5871" />(暂未变动)
-
-
-
-版本：2.0（最新）
+版本：3.0（最新）
 后续会更新... ...
+
+
+A powerful calculator for friends and family that can help you deal with a variety of calculator software that calls out the name of a family friend.
+
+Currently countable types: "Dad", "Mom", "Grandpa", "Grandma", "Grandpa", "Grandma", "Brother", "Sister", "Younger Brother", "Sister", "Aunt", "Uncle", "Uncle", "Uncle", "Aunt", "Great-Grandfather", "Great-Grandmother", "Great-Grandfather", "Great-Grandmother".
+
+Supports en/cn languages
+
+To download, go to Releases
+
+Version: 3.0 (Latest)
+Updates will follow... ...
